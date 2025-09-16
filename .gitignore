@@ -1,0 +1,19 @@
+# dependências
+/node_modules
+/pnpm-lock.yaml
+
+# pasta de produção
+/dist
+
+# variáveis de ambiente
+.env
+.env.local
+.env.*.local
+
+# arquivos de build e cache
+.npm
+.pnpm-store
+.vite
+.cache
+.DS_Store
+Thumbs.db
